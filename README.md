@@ -1,4 +1,4 @@
-# grunt-venusjs
+# grunt-venusjs [![Build Status](https://travis-ci.org/bargaorobalo/grunt-venusjs.png)](https://travis-ci.org/bargaorobalo/grunt-venusjs)
 
 > Grunt plugin for Venus.js: a testing tool for javascript which simplifies running unit tests.
 
