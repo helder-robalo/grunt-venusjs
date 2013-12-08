@@ -2,7 +2,7 @@
  * grunt-venusjs
  * https://github.com/bargaorobalo/grunt-venusjs
  *
- * Copyright (c) 2013 Helder Bargão Robalo
+ * Copyright (c) 2013 Helder Bargao Robalo
  * Licensed under the MIT license.
  */
 
@@ -13,7 +13,7 @@ module.exports = function(grunt) {
   // Please see the Grunt documentation for more information regarding task
   // creation: http://gruntjs.com/creating-tasks
 
-  grunt.registerMultiTask('venusjs', 'Grunt plugin for VenusJS,: a testing tool for javascript which simplifies running unit tests.', function() {
+  grunt.registerMultiTask('venusjs', 'Grunt plugin for VenusJS, a testing tool for javascript which simplifies running unit tests.', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
       punctuation: '.',
